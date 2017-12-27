@@ -4,11 +4,11 @@
 
 # 三维算法类
 
-- [PyFlann -快速查找最近点的工具](_posts/2017-12-25-pyflann_usage.md)
+- [PyFlann -快速查找最近点的工具](posts/pyflann_usage.md)
 
 # Unity packeages
 
 # 实用软件
 
 - [Git -分布式版本管理工具](http://cghhu.cn:81/use-git/)
-- [ATOM -非常好用的文本编辑器](_posts/2017-12-27-atom介绍.md)
+- [ATOM -非常好用的文本编辑器](posts/atom介绍.md)
