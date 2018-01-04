@@ -18,9 +18,13 @@
 - [幕布 -思维导图创建工具](https://mubu.com/)
 - [OfficePlus -一些免费的ppt模版，更新可能比较慢](http://www.officeplus.cn/List.shtml?cat=PPT&tag=&order=0)
 
-# 三维算法类
+# 图形学相关
 
 - [PyFlann -快速查找最近点的工具](posts/pyflann_usage.md)
+- [CGAL -计算机几何库](https://www.cgal.org/)
+- [PCL -点云库](http://pointclouds.org/)
+- [openmesh -轻量级几何网格表示库](https://www.openmesh.org/)
+- [starlab -开源图形学编程框架](https://github.com/OpenGP/starlab)
 
 # 实用软件
 
