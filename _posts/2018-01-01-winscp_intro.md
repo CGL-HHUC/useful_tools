@@ -2,7 +2,7 @@
 
 winscp 可以方便的在 windows 和 linux 直接传输文件。
 
-![](../imgs/winscp.png)
+![](/imgs/winscp.png)
 
 #Features
 
