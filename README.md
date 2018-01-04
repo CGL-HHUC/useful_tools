@@ -20,8 +20,8 @@
 
 # 图形学相关
 
-- [PyFlann -快速查找最近点的工具](posts/pyflann_usage.md)
-- [CGAL -计算机几何库](https://www.cgal.org/)
+- [PyFlann -快速查找最近点的工具](./_posts/2018-01-01-pyflann_usage.md)
+- [CGAL -几何计算库](https://www.cgal.org/)
 - [PCL -点云库](http://pointclouds.org/)
 - [openmesh -轻量级几何网格表示库](https://www.openmesh.org/)
 - [starlab -开源图形学编程框架](https://github.com/OpenGP/starlab)
@@ -29,16 +29,16 @@
 # 实用软件
 
 - [Git -分布式版本管理工具](http://cghhu.cn:81/use-git/)
-- [ATOM -非常好用的文本编辑器](posts/atom介绍.md)
+- [ATOM -非常好用的文本编辑器](./_posts/2018-01-01-atom介绍.md)
 
 # Linux 远程工具
 
-- [xShell -远程终端](_posts/xShell_intro.md)
-- [WinSCP -方便的在 win 和 linux 下传输文件](_posts/winscp_intro.md)
+- [xShell -远程终端](./_posts/2018-01-01-xShell_intro.md)
+- [WinSCP -方便的在 win 和 linux 下传输文件](./_posts/2018-01-01-winscp_intro.md)
 
 # Linux 好用软件
 
-- [htop -任务管理器](_posts/htop_intro.md)
+- [htop -任务管理器](./_posts/2018-01-01-htop_intro.md)
 - [win 10 运行 linux 子系统](http://mcoder.cc/2017/12/13/WSL_ubuntu/)
 
 # 摄影基础知识入门
