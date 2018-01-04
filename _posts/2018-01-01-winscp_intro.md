@@ -1,4 +1,4 @@
-### [返回首页](../README.md)
+### [返回首页](/README.md)
 
 winscp 可以方便的在 windows 和 linux 直接传输文件。
 
@@ -25,4 +25,4 @@ winscp 可以方便的在 windows 和 linux 直接传输文件。
 - [download](https://winscp.net/eng/download.php)
 
 
-### [返回首页](../README.md)
+### [返回首页](/README.md)
