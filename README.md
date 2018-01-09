@@ -1,4 +1,5 @@
 # Useful Tools
+## [CGL@HHUC-主页](https://cghhu.cn)
 
 这个列表整理了一些可能对大家学习生活中有用的工具（主要是免费或开源的），希望你能从中找到你想要的，点开查看详情，记得看看详情里的 Reference。
 
@@ -26,22 +27,37 @@
 - [openmesh -轻量级几何网格表示库](https://www.openmesh.org/)
 - [starlab -开源图形学编程框架](https://github.com/OpenGP/starlab)
 
-# 实用软件
+# 深度学习相关
+
+- [Deep Learning Papers Reading Roadmap -经典的深度学习论文 ](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [Deep Learning Reading List -List of reading lists and survey papers ](http://deeplearning.net/reading-list/)
+- [waifu2x -深度学习放大图片分辨率](https://github.com/nagadomi/waifu2x)
+- [Octave -语法与 matlab 相同的免费的科学计算软件 ](https://www.gnu.org/software/octave/)
+- [TensorFlow -Google主推的深度学习框架](https://tensorflow.google.cn/get_started/)
+- [Torch7 -最近流行的使用 lua 语法的深度学习框架](http://torch.ch/)
+
+# 实用软件 & 在线工具
 
 - [Git -分布式版本管理工具](http://cghhu.cn:81/use-git/)
 - [ATOM -非常好用的文本编辑器](./_posts/2018-01-01-atom介绍.md)
+- [Awesome-qr.js -二维码在线生成 ](https://www.bitcat.cc/webapp/awesome-qr/index.html)
 
-# Linux 远程工具
+# Linux 相关
 
 - [xShell -远程终端](./_posts/2018-01-01-xShell_intro.md)
 - [WinSCP -方便的在 win 和 linux 下传输文件](./_posts/2018-01-01-winscp_intro.md)
-
-# Linux 好用软件
-
 - [htop -任务管理器](./_posts/2018-01-01-htop_intro.md)
 - [win 10 运行 linux 子系统](http://mcoder.cc/2017/12/13/WSL_ubuntu/)
+- [Linux 命令大全 -方便查询 linux 命令](http://man.linuxde.net/)
+
+# 编程语言入门学习
+
+- [Python 入门指南 -个人觉得花一天时间敲一遍就可以算入门了 ](http://www.pythondoc.com/pythontutorial3/index.html)
+- [做游戏，学编程（C语言）-用编小游戏的方式培养编程思维 ](https://study.163.com/course/courseMain.htm?courseId=1004489035)
+
 
 # 摄影基础知识入门
 
 - [佳能数码单反相机攻略 -对新手很友好](http://www.canon.com.cn/specialsite/ds_abcbook/)
 - [一张图学会摄影 -摄摄影所需要知道的基础知识](http://www.sybj.com/may.php?c=w&a=oneClass&t=1&id=27119)
+- [DoxMark -相机性能排行](https://www.dxomark.com/)
