@@ -41,6 +41,8 @@
 - [Git -分布式版本管理工具](http://cghhu.cn:81/use-git/)
 - [ATOM -非常好用的文本编辑器](./_posts/2018-01-01-atom介绍.md)
 - [Awesome-qr.js -二维码在线生成 ](https://www.bitcat.cc/webapp/awesome-qr/index.html)
+- [在Word中使用Latex插入公式](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8?ui=en-US&rs=en-US&ad=US)
+    [Alt]+[=]进入公式编辑
 
 # Linux 相关
 
