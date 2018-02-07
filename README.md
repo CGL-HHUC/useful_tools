@@ -41,8 +41,11 @@
 - [Git -分布式版本管理工具](http://cghhu.cn:81/use-git/)
 - [ATOM -非常好用的文本编辑器](./_posts/2018-01-01-atom介绍.md)
 - [Awesome-qr.js -二维码在线生成 ](https://www.bitcat.cc/webapp/awesome-qr/index.html)
-- [在Word中使用Latex插入公式](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8?ui=en-US&rs=en-US&ad=US)
-    [Alt]+[=]进入公式编辑
+
+# LaTeX
+- [tablesgenerator.com -在线创建 Latex 表格代码](http://www.tablesgenerator.com/)
+- [codecogs -在线创建 LATEX 公式](http://latex.codecogs.com/)
+- [在Word中使用Latex插入公式 -`[Alt]+[=]进入公式编辑`](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8?ui=en-US&rs=en-US&ad=US)
 
 # Linux 相关
 
@@ -63,3 +66,10 @@
 - [佳能数码单反相机攻略 -对新手很友好](http://www.canon.com.cn/specialsite/ds_abcbook/)
 - [一张图学会摄影 -摄摄影所需要知道的基础知识](http://www.sybj.com/may.php?c=w&a=oneClass&t=1&id=27119)
 - [DoxMark -相机性能排行](https://www.dxomark.com/)
+
+# 电脑装机相关
+
+- [JJBOOM -查看时下推荐选购意见](https://www.jjboom.com/pages/g000102)
+- [CPU 天梯图](http://topic.expreview.com/CPU/)
+- [GPU 天梯图](http://topic.expreview.com/GPU/)
+- [intel CPU 详情查询](https://ark.intel.com/zh-cn/)
