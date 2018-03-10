@@ -39,6 +39,7 @@
 # 实用软件 & 在线工具
 
 - [Git -分布式版本管理工具](http://cghhu.cn:81/use-git/)
+- [proGit中文版](https://www.gitbook.com/book/bingohuang/progit2/details)
 - [ATOM -非常好用的文本编辑器](./_posts/2018-01-01-atom介绍.md)
 - [TeamViewer -远程控制软件(windows/Mac/Linux/Android/iOS)](https://www.teamviewer.com/zhcn/download/windows/)
 - [Awesome-qr.js -二维码在线生成 ](https://www.bitcat.cc/webapp/awesome-qr/index.html)
