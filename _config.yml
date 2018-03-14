@@ -1,1 +1,21 @@
+
+url: "http://notes.cghhu.cn/"          # your host, for absolute URL
+baseurl: ""                                 # for example, '/blog' if your blog hosted on 'host/blog'
+
+github_repo: "https://github.com/CGL-HHUC/useful_tools" # you code repository
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+exclude: ["less","node_modules","Gruntfile.js","package.json"]
+permalink: pretty
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
 theme: jekyll-theme-architect
+gems: [jekyll-paginate]
