@@ -48,7 +48,9 @@ catalog:   true
 - [ATOM -非常好用的文本编辑器](./_posts/2018-01-01-atom介绍.md)
 - [TeamViewer -远程控制软件(windows/Mac/Linux/Android/iOS)](https://www.teamviewer.com/zhcn/download/windows/)
 - [Awesome-qr.js -二维码在线生成 ](https://www.bitcat.cc/webapp/awesome-qr/index.html)
-- [inkscape非常好用的开源矢量图编辑软件,可以使用latex渲染公式](https://inkscape.org/zh/)
+- [inkscape非常好用的开源矢量图编辑软件](https://inkscape.org/zh/)
+  
+  [可以使用latex渲染公式](https://github.com/seebk/LaTeXText)
 
   ![inkscape](https://media.inkscape.org/media/doc/tutorials/shapes/shapes-f16.png)
   ![latex](https://media.inkscape.org/media/resources/render/source_jqa3bVM.png)
