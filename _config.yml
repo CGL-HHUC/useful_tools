@@ -1,8 +1,16 @@
 
 url: "http://notes.cghhu.cn/"          # your host, for absolute URL
+homepage: "https://cghhu.cn/"          # The home button on the navigation bar
 baseurl: ""                                 # for example, '/blog' if your blog hosted on 'host/blog'
-
+title: "Userful Tools"
+keyword: "开源 免费 有用的工具 userful tools open source free"
 github_repo: "https://github.com/CGL-HHUC/useful_tools" # you code repository
+
+
+header-img: "imgs/header.jpg"       # default header img
+
+username:   CGL@HHUC
+github_username:    CGL-HHUC
 
 # Markdown settings
 # replace redcarpet to kramdown,

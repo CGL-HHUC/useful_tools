@@ -1,5 +1,11 @@
-
-### [返回首页](/README.md)
+---
+layout:     post
+title:      ""PyFlann 介绍"
+subtitle:   ""
+date:       2018-01-01
+author:     Mcoder
+catalog: true
+---
 
 # PyFlann 使用方法
 `PyFlann` 其实是 `FLANN` 的 `python` 接口，当前支持python2 和 python3。`FLANN` 的意思是`Fast Library for Approximate Nearest Neighbors`，也就是快速解决最近点搜类问题的库。
@@ -152,6 +158,3 @@ print dists
 - [FLANN](https://www.cs.ubc.ca/research/flann/)
 - [FLANN User Guided](http://www.cs.ubc.ca/research/flann/uploads/FLANN/flann_manual-1.8.4.pdf)
 - [K-d Tree](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/kdtrees.pdf)
-
-
-### [返回首页](/README.md)

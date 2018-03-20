@@ -1,5 +1,11 @@
-### [返回首页](/README.md)
-
+---
+layout:     post
+title:      "WinSCP 介绍"
+subtitle:   "方便的在 windows 和 linux 系统之间传输文件"
+date:       2018-01-01
+author:     Mcoder
+catalog: true
+---
 winscp 可以方便的在 windows 和 linux 直接传输文件。
 
 ![](/imgs/winscp.png)
@@ -23,6 +29,3 @@ winscp 可以方便的在 windows 和 linux 直接传输文件。
 
 # Reference
 - [download](https://winscp.net/eng/download.php)
-
-
-### [返回首页](/README.md)

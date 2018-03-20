@@ -17,26 +17,8 @@
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="{{ site.baseurl }}/">Home</a>
+                        <a href="{{site.homepage}}">Home</a>
                     </li>
-
-                    {% if site.csdn_username %}
-                    <li>
-                        <a href="http://blog.csdn.net/{{ site.csdn_username }}">CSDN</a>
-                    </li>
-                    {% endif %}
-
-                    <li>
-                        <a href="http://mcoder.cc/DL-notes/">DL-Notes</a>
-                    </li>
-
-                    {% for page in site.pages %}
-                        {% if page.title %}
-                    <li>
-                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                    </li>
-                        {% endif %}
-                    {% endfor %}
                 </ul>
             </div>
         </div>

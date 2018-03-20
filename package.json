@@ -1,14 +1,14 @@
 {
-    "name": "mcoder",
-    "title": "姜茶 Blog",
-    "author": "mcoder <mcoder2014@sina.com>",
+    "name": "Userful Tools",
+    "title": "Userful Tools",
+    "author": "cgl@hhu",
     "version": "1.7.0",
-    "homepage": "http://mcoder.cc",
+    "homepage": "http://cghhu.cn",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mcoder2014/mcoder2014.github.io"
+        "url": "https://github.com/CGL-HHUC/useful_tools"
     },
-    "bugs": "https://github.com/mcoder2014/mcoder2014.github.io/issues",
+    "bugs": "https://github.com/CGL-HHUC/useful_tools",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

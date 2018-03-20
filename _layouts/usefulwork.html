@@ -2,28 +2,45 @@
 <html lang="en">
 
 {% include head.html %}
-<!-- Post Header -->
-<style type="text/css">
-    header.intro-header{
-        position: relative;
-        background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
-    }
-
-    {% if page.header-mask %}
-    header.intro-header .header-mask{
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        background: rgba(0,0,0, {{ page.header-mask }});
-    }
-    {% endif %}
-</style>
 
 <body ontouchstart="">
-    <!-- Image to hack wechat -->
-    <!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
-    <!-- <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" width="0" height="0"> -->
 
+    {% include nav.html %}
+    
+    <!-- Post Header -->
+    <style type="text/css">
+        header.intro-header{
+            position: relative;
+            background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
+        }
+
+        {% if page.header-mask %}
+        header.intro-header .header-mask{
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            background: rgba(0,0,0, {{ page.header-mask }});
+        }
+        {% endif %}
+    </style>
+    <header class="intro-header" >
+        <div class="header-mask"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1>{{ page.title }}</h1>
+                        {% comment %}
+                            always create a h2 for keeping the margin , Hux
+                        {% endcomment %}
+                        {% comment %} if page.subtitle {% endcomment %}
+                        <h2 class="subheading">{{ page.subtitle }}</h2>
+                        {% comment %} endif {% endcomment %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
     <!-- Post Content -->
     <article>
@@ -60,24 +77,6 @@
             </div>
         </div>
     </article>
-
-    {% if site.disqus_username %}
-    <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES * * */
-        var disqus_shortname = "{{site.disqus_username}}";
-        var disqus_identifier = "{{page.id}}";
-        var disqus_url = "{{site.url}}{{page.url}}";
-
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <!-- disqus 公共JS代码 end -->
-    {% endif %}
-
 
     {% if site.anchorjs %}
     <!-- async load function -->
