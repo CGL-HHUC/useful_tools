@@ -48,9 +48,8 @@ catalog:   true
 - [ATOM -非常好用的文本编辑器](./_posts/2018-01-01-atom介绍.md)
 - [TeamViewer -远程控制软件(windows/Mac/Linux/Android/iOS)](https://www.teamviewer.com/zhcn/download/windows/)
 - [Awesome-qr.js -二维码在线生成 ](https://www.bitcat.cc/webapp/awesome-qr/index.html)
-- [inkscape -非常好用的开源矢量图编辑软件](./_posts2018-3-20-inkscape.md)
-- [LaTeXText -可以使用latex渲染公式](_posts/2018-03-20-latextex.md)
-
+- [inkscape -非常好用的开源矢量图编辑软件](./_posts/2018-3-20-inkscape.md)
+- [XMind -简约扁平风格的思维导图软件](./_posts/2018-03-28-xMind.md)
 
 # LaTeX
 
@@ -58,6 +57,7 @@ catalog:   true
 - [tablesgenerator.com -在线创建 Latex 表格代码](http://www.tablesgenerator.com/)
 - [codecogs -在线创建 LATEX 公式](http://latex.codecogs.com/)
 - [在Word中使用Latex插入公式 -`[Alt]+[=]进入公式编辑`](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8?ui=en-US&rs=en-US&ad=US)
+- [LaTeXText -可以使用latex渲染公式](_posts/2018-03-20-latextex.md)
 
 # Linux 相关
 
