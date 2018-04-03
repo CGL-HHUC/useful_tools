@@ -48,6 +48,7 @@ catalog:   true
 - [ATOM -非常好用的文本编辑器](./_posts/2018-01-01-atom介绍.md)
 - [TeamViewer -远程控制软件(windows/Mac/Linux/Android/iOS)](https://www.teamviewer.com/zhcn/download/windows/)
 - [Awesome-qr.js -二维码在线生成 ](https://www.bitcat.cc/webapp/awesome-qr/index.html)
+- [鸠摩搜索 -蛮好用的电子书搜索引擎](https://www.jiumodiary.com/)
 - [inkscape -非常好用的开源矢量图编辑软件](./_posts/2018-3-20-inkscape.md)
 - [XMind -简约扁平风格的思维导图软件](./_posts/2018-03-28-xMind.md)
 
