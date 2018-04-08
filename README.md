@@ -3,19 +3,23 @@ layout:    usefulwork
 title:     Userful Tools
 catalog:   true
 ---
+
 # Useful Tools
 ## [CGL@HHUC-主页](https://cghhu.cn)
+本站总结了一些非常有用极客的开源库、软件、网站等，在这里统称为 **Userful Tools**。本站认为这些 Userful Tools ，对大家的学习生活非常有帮助。这些 Userful Tools 大部分是免费开源的，有些是收费的商业软件但有可供一般用户使用的免费版本（功能受限）。
 
-这个列表整理了一些可能对大家学习生活中有用的工具（主要是免费或开源的），希望你能从中找到你想要的，点开查看详情，记得看看详情里的 Reference。
-
-使用更加方便且高效的工具，可以极大的提升个人的工作效率和工作心情，希望我们推荐的工具可以为你带来方便。
+经常使用这些方便高效的工具可以提升个人的工作效率，经常接触比较极客的工具可以保持自己的好奇心和学习的热情。希望大家也喜欢我们的推荐，也欢迎大家进入本站 [Github](https://github.com/CGL-HHUC/useful_tools/issues/1) 的讨论页面，推荐一些 自己认为很棒的 Userful Tools 让更多的人了解。
 
 # 优秀的资料整理
+
 - [Coding Interview University -很全面的计算机系的知识图谱](https://github.com/jwasham/coding-interview-university)
 - [Deep Learning Papers Reading Roadmap -深度学习论文阅读之路](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 # Unity 相关
+
 - [比较全面的c#帮助类](https://github.com/Jimmey-Jiang/Common.Utility)
+- [Unity Script Collection -一些免费的有用的 Unity 脚本插件的总结 ](https://github.com/michidk/Unity-Script-Collection)
+- [Vuforia -高通的 Unity 增强现实解决方案](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)
 
 # 素材类
 
