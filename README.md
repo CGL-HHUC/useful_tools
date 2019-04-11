@@ -44,6 +44,9 @@ catalog:   true
 - [Octave -语法与 matlab 相同的免费的科学计算软件 ](https://www.gnu.org/software/octave/)
 - [TensorFlow -Google主推的深度学习框架](https://tensorflow.google.cn/get_started/)
 - [Torch7 -最近流行的使用 lua 语法的深度学习框架](http://torch.ch/)
+- [神经网络与深度学习 -复旦大学教师 邱锡鹏](https://nndl.github.io/)
+- [DeepLearning-500-questions -深度学习五百问](https://github.com/scutan90/DeepLearning-500-questions)
+- [awesome-Face_Recognition -人脸识别相关论文汇总](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 
 # 实用软件 & 在线工具
 
@@ -56,16 +59,20 @@ catalog:   true
 - [inkscape -非常好用的开源矢量图编辑软件](./_posts/2018-3-20-inkscape.md)
 - [XMind -简约扁平风格的思维导图软件](./_posts/2018-03-28-xMind.md)
 
-# LaTeX
+# LaTeX & 论文写作
 
 - [一份不太简介的LATEX介绍 -入门资料 ](https://github.com/CTeX-org/lshort-cn/releases)
 - [tablesgenerator.com -在线创建 Latex 表格代码](http://www.tablesgenerator.com/)
 - [codecogs -在线创建 LATEX 公式](http://latex.codecogs.com/)
 - [在Word中使用Latex插入公式 -`[Alt]+[=]进入公式编辑`](https://support.office.com/en-us/article/Linear-format-equations-using-UnicodeMath-and-LaTeX-in-Word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8?ui=en-US&rs=en-US&ad=US)
 - [LaTeXText -可以使用latex渲染公式](_posts/2018-03-20-latextex.md)
+- [手把手教你使用 EndNote X9/NoteExpres -文献引用、文献管理](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand)
+- [英文论文写作风格](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
 
 # Linux 相关
 
+- [鸟哥的Linux私房菜-非常详细的linux入门指南](http://linux.vbird.org/linux_basic/#)
+- [Manjaro-目前非常热门的Arch linux发行版](https://manjaro.org/)
 - [xShell -远程终端](./_posts/2018-01-01-xShell_intro.md)
 - [WinSCP -方便的在 win 和 linux 下传输文件](./_posts/2018-01-01-winscp_intro.md)
 - [htop -任务管理器](./_posts/2018-01-01-htop_intro.md)
@@ -76,6 +83,15 @@ catalog:   true
 
 - [Python 入门指南 -个人觉得花一天时间敲一遍就可以算入门了 ](http://www.pythondoc.com/pythontutorial3/index.html)
 - [做游戏，学编程（C语言）-用编小游戏的方式培养编程思维 ](https://study.163.com/course/courseMain.htm?courseId=1004489035)
+- [awesome-c-cn -C语言学习资料大全](https://github.com/jobbole/awesome-c-cn)
+- [Go 语言入门](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+- [QMLBook -中文版讲解QML的书籍](https://cwc1987.gitbooks.io/qmlbook-in-chinese/content/)
+- [awesome-python-login-model -常见国内网站python爬虫模拟登陆方法](https://github.com/CriseLYJ/awesome-python-login-model)
+
+# 设计模式
+
+- [游戏编程模式-从游戏开发角度讲解设计模式](https://gpp.tkchu.me/)
+- [图说设计模式-有样例代码讲解设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)[使用Qt将样例代码工程重新组织了一些](https://github.com/mcoder2014/design_patterns)
 
 
 # 摄影基础知识入门
@@ -90,3 +106,12 @@ catalog:   true
 - [CPU 天梯图](http://topic.expreview.com/CPU/)
 - [GPU 天梯图](http://topic.expreview.com/GPU/)
 - [intel CPU 详情查询](https://ark.intel.com/zh-cn/)
+
+# 电视台直播
+- [CCTV -电视直播](http://tv.cctv.com/live/cctv1/)
+- [电视眼 -高清免费可回放](http://www.tvyan.com/)
+- [清华大学IPTV -需要在校园网 IPV6环境下使用](https://iptv.tsinghua.edu.cn/v2/list/channel/%E9%AB%98%E6%B8%85%E9%A2%91%E9%81%93)
+
+# 找工作/面试
+- [CS-Interview-Knowledge-Map -计算机面试时应该知道的一些知识总结](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+- [Algorithm_Interview_Notes-Chinese -招聘时算法相关的](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
